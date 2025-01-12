@@ -36,7 +36,7 @@ class Login extends StatelessWidget {
                         ),
                         SizedBox(height: 20), // Increased space between title and description
                         Text(
-                          "Masukkan akun yang tepat dan pastikan\ntidak melakukan kesalahan ya.",
+                          "Masukkan akun yang tepat dan pastikan\ntidak melakukan kesalahan ya!.",
                           style: TextStyle(
                             fontSize: 16,
                             color: Colors.black,
